@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541779307168",
+    "project_id": "farmersconnect-2be94",
+    "storage_bucket": "farmersconnect-2be94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541779307168:android:f759c8857c40669ca637c5",
+        "android_client_info": {
+          "package_name": "com.servicex.farmersconnets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzYfo-qJiibEpWrjm3LjJeKk93FZ3XPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
